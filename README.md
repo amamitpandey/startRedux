@@ -25,3 +25,19 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+written by Amit Pandey
+
+this is example project to use redux
+
+# Some helpful link below I have used
+
+https://coursetro.com/posts/code/151/Angular-Ngrx-Store-Tutorial---Learn-Angular-State-Management
+
+https://ngrx.io/guide/store
+
+https://dzone.com/articles/angular-app-state-management-with-ngrx
+
+# this tool show GUI how code works
+
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?Itemid=1027
