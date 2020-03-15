@@ -34,6 +34,12 @@ this is example project to use redux
 
 https://coursetro.com/posts/code/151/Angular-Ngrx-Store-Tutorial---Learn-Angular-State-Management
 
+currently i used two version in this project v7 and v9 
+
+v7 used basic code structure instead of v9 has short code structure but diffrent level
+
+I perfer to use v7
+
 https://ngrx.io/guide/store
 
 https://dzone.com/articles/angular-app-state-management-with-ngrx
